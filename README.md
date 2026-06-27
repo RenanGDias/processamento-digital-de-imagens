@@ -91,5 +91,5 @@ python src/main.py --imagem imagens/GrayAndMagenta.png --metodo modificado --con
 ## 👥 Equipe
 
 * **[Renan]** - [Matrícula]
-* **[João]** - [Matrícula]
+* **[João Vitor Sampaio Costa]** - 20230089776
 * **[André]** - [Matrícula]
