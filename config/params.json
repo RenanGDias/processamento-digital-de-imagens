@@ -1,0 +1,10 @@
+{
+  "description": "Configurações padrão para detecção de bordas",
+  "sigma": 1.0,
+  "kernel_size": 5,
+  "low_threshold": 100,
+  "high_threshold": 200,
+  "gabor_orientations": 8,
+  "gabor_frequencies": 3,
+  "sigma_di_zenzo": 1.5
+}

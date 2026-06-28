@@ -1,0 +1,10 @@
+{
+  "description": "Configurações robustas para detecção conservadora",
+  "sigma": 1.5,
+  "kernel_size": 7,
+  "low_threshold": 150,
+  "high_threshold": 250,
+  "gabor_orientations": 6,
+  "gabor_frequencies": 2,
+  "sigma_di_zenzo": 2.0
+}

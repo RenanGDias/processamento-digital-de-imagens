@@ -1,0 +1,10 @@
+{
+  "description": "Configurações sensíveis para detecção mais agressiva",
+  "sigma": 0.8,
+  "kernel_size": 3,
+  "low_threshold": 50,
+  "high_threshold": 120,
+  "gabor_orientations": 12,
+  "gabor_frequencies": 4,
+  "sigma_di_zenzo": 1.0
+}
